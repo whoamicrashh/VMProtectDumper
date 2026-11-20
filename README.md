@@ -219,5 +219,6 @@ This tool is for malware analysis, CTF, software-interoperability research and a
 ## License
 
 PolyForm Noncommercial 1.0.0 — see [LICENSE](LICENSE).
+
 [@hackerebanatik](https://t.me/hackerebanatik)
 
